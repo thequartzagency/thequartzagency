@@ -196,9 +196,9 @@
 }
 .hero-content h1 {
   font-family: var(--heading-font);
-  font-size: var(--hero-title);
+  font-size: clamp(3rem, 5vw, 4.5rem);
   font-weight: 500;
-  line-height: 1.05;
+  line-height: 1.1;
   margin-bottom: 24px;
 }
 .hero-content h1 span {
@@ -291,34 +291,34 @@ section {
 }
 .section-heading {
   text-align: center;
-  max-width: 720px;
-  margin: 0 auto 60px;
+  max-width: 850px;
+  margin: 0 auto 70px;
 }
 .section-subtitle {
   display: block;
   color: var(--gold);
-  font-size: 12px;
-  letter-spacing: 3px;
+  font-size: 22px;
+  letter-spacing: 2px;
   font-weight: 600;
   margin-bottom: 14px;
 }
 .section-heading h2 {
   font-family: var(--heading-font);
-  font-size: var(--section-title);
-  line-height: 1.2;
+  font-size: clamp(2rem, 3.5vw, 2.8rem);
+  line-height: 1.15;
   color: var(--navy);
   font-weight: 500;
-  margin-bottom: 18px;
+  margin: 16px 0 20px;
 }
 .section-heading h2 span {
   color: var(--gold);
   font-style: italic;
 }
 .section-description {
-  color: var(--muted-ink);
-  font-size: 16px;
+  color: var(--text-light);
+  font-size: 17px;
   line-height: 1.8;
-  max-width: 640px;
+  max-width: 700px;
   margin: 0 auto;
 }
 
@@ -803,7 +803,7 @@ section {
 }
 .page-hero-content h1 {
   font-family: var(--heading-font);
-  font-size: clamp(2.2rem, 4vw, 3.6rem);
+  font-size: clamp(2.5rem, 4vw, 3.8rem);
   font-weight: 500;
   line-height: 1.15;
   margin-bottom: 20px;
