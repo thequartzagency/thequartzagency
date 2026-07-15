@@ -49,7 +49,7 @@ function EmployersPage() {
       <SiteHeader variant="solid" />
       <PageHero
         eyebrow="FOR EMPLOYERS"
-        title="Building Teams That Drive Business Success."
+        title="Building Teams That Drive Business Success"
         intro="We help organisations attract, evaluate and secure exceptional professionals who create long-term value."
       />
 
@@ -57,7 +57,7 @@ function EmployersPage() {
         <div className="container">
           <div className="section-heading">
             <span className="section-subtitle">YOUR TALENT PARTNER</span>
-            <h2>More Than Recruitment.<br />A Strategic Partnership.</h2>
+            <h2>More Than Recruitment<br />A Strategic Partnership</h2>
             <p className="section-description">
               The Quartz Agency works alongside businesses to understand their goals,
               culture and challenges before identifying the professionals who can help
@@ -71,7 +71,7 @@ function EmployersPage() {
         <div className="container">
           <div className="section-heading">
             <span className="section-subtitle">WE HELP SOLVE</span>
-            <h2>Recruitment Challenges That Businesses Face.</h2>
+            <h2>Recruitment Challenges That Businesses Face</h2>
           </div>
           <div className="challenge-grid">
             {challenges.map((c) => (
@@ -89,7 +89,7 @@ function EmployersPage() {
         <div className="container">
           <div className="section-heading">
             <span className="section-subtitle">OUR SOLUTIONS</span>
-            <h2>Recruitment Services Built For Employers.</h2>
+            <h2>Recruitment Services Built For Employers</h2>
           </div>
           <div className="solution-grid">
             {solutions.map((s) => (
@@ -108,7 +108,7 @@ function EmployersPage() {
         <div className="container">
           <div className="section-heading">
             <span className="section-subtitle">HOW WE WORK</span>
-            <h2>A Simple Process. Exceptional Results.</h2>
+            <h2>A Simple Process - Exceptional Results</h2>
           </div>
           <div className="process-timeline four">
             {steps.map((s) => (
@@ -126,7 +126,7 @@ function EmployersPage() {
         <div className="container">
           <div className="partner-content-single">
             <span className="section-subtitle">WHY QUARTZ</span>
-            <h2>A Recruitment Partner You Can Trust.</h2>
+            <h2>A Recruitment Partner You Can Trust</h2>
             <p>We combine professional expertise, industry insight and personalised service to deliver recruitment outcomes that matter.</p>
             <ul className="check-list">
               {bullets.map((b) => (
