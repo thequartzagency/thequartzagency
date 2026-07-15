@@ -107,8 +107,8 @@
   display: inline-flex;
   align-items: center;
   height: auto
-  margin: 0;
-  padding: 0;
+  margin: 20;
+  padding: 10;
 }
 .logo img {
   height: 160px;
