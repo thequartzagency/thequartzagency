@@ -31,7 +31,7 @@ function AboutPage() {
       <SiteHeader variant="solid" />
       <PageHero
         eyebrow="ABOUT THE QUARTZ AGENCY"
-        title={<>Building Connections. Creating Careers.<br />Driving Success.</>}
+        title={<>Building Connections - Creating Careers -<br />Driving Success</>}
         intro="A premium recruitment partner connecting exceptional professionals with organisations that value excellence."
       />
 
@@ -40,7 +40,7 @@ function AboutPage() {
           <div className="about-grid">
             <div className="about-content">
               <span className="section-subtitle">OUR STORY</span>
-              <h2>Recruitment Built On<br />Trust And Understanding.</h2>
+              <h2>Recruitment Built On<br />Trust And Understanding</h2>
               <p>The Quartz Agency was created with a simple belief: exceptional businesses are built by exceptional people.</p>
               <p>Our approach combines industry knowledge, personalised service and strategic talent acquisition to deliver recruitment solutions that create lasting impact.</p>
               <Link to="/contact" className="btn-primary">Partner With Us</Link>
@@ -89,7 +89,7 @@ function AboutPage() {
         <div className="container">
           <div className="section-heading">
             <span className="section-subtitle">WHY THE QUARTZ AGENCY</span>
-            <h2>A Recruitment Partnership Built Around Excellence.</h2>
+            <h2>A Recruitment Partnership Built Around Excellence</h2>
             <p className="section-description">Our approach combines market intelligence, professional relationships and a deep understanding of business requirements.</p>
           </div>
           <div className="why-grid">
@@ -108,7 +108,7 @@ function AboutPage() {
         <div className="container">
           <div className="about-values-content">
             <span>THE QUARTZ STANDARD</span>
-            <h2>Quality. Integrity. Results.</h2>
+            <h2>Quality - Integrity - Results.</h2>
             <p>Every candidate, every client and every placement receives the highest level of professionalism.</p>
           </div>
         </div>
@@ -119,7 +119,7 @@ function AboutPage() {
           <div className="cta-wrapper cta-single">
             <div className="cta-content">
               <span className="section-subtitle">START A CONVERSATION</span>
-              <h2>Let's Find Exceptional Talent Together.</h2>
+              <h2>Let's Find Exceptional Talent Together</h2>
               <p>Partner with The Quartz Agency and discover a recruitment approach designed around your success.</p>
               <div className="cta-buttons">
                 <Link to="/contact" className="btn-primary">Contact Us</Link>
