@@ -37,7 +37,7 @@ export function SiteFooter() {
             <h4>Get In Touch</h4>
             <ul>
               <li><i className="fa-solid fa-location-dot" />Cape Town, South Africa</li>
-              <li><i className="fa-solid fa-phone" />+27 XX XXX XXXX</li>
+              <li><i className="fa-solid fa-phone" />+27 76 850 0001</li>
               <li><i className="fa-solid fa-envelope" />info@thequartzagency.co.za</li>
             </ul>
             <div className="social-links">
