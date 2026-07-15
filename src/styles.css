@@ -760,7 +760,7 @@ section {
   background: var(--navy);
   box-shadow: 0 4px 20px rgba(8, 28, 45, 0.15);
 }
-.header-solid .navbar { height: 84px; }
+.header-solid .navbar { height: 280px; }
 
 /* ============ PAGE HERO (inner pages) ============ */
 .page-hero {
