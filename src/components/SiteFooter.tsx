@@ -41,11 +41,24 @@ export function SiteFooter() {
               <li><i className="fa-solid fa-envelope" />info@thequartzagency.co.za</li>
             </ul>
             <div className="social-links">
-              <a href="#" aria-label="LinkedIn"><i className="fab fa-linkedin-in" /></a>
-              <a href="#" aria-label="Facebook"><i className="fab fa-facebook-f" /></a>
-              <a href="#" aria-label="Instagram"><i className="fab fa-instagram" /></a>
-            </div>
-          </div>
+  <a
+    href="https://www.linkedin.com/company/the-quartz-agency/about/"
+    target="_blank"
+    rel="noopener noreferrer"
+    aria-label="LinkedIn"
+  >
+    <i className="fab fa-linkedin-in"></i>
+  </a>
+
+  <a
+    href="https://www.facebook.com/people/The-Quartz-Agency/61587174975305/"
+    target="_blank"
+    rel="noopener noreferrer"
+    aria-label="Facebook"
+  >
+    <i className="fab fa-facebook-f"></i>
+  </a>
+</div>          </div>
         </div>
         <div className="footer-bottom">
           <p>© 2026 The Quartz Agency. All Rights Reserved.</p>
