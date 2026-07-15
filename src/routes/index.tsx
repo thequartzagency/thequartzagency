@@ -134,7 +134,7 @@ function Index() {
         <div className="container">
           <div className="section-heading">
             <span className="section-subtitle">INDUSTRIES WE SERVE</span>
-            <h2>Industry Expertise.<br /><span>People First.</span></h2>
+            <h2>Industry Expertise<br /><span>People First</span></h2>
             <p className="section-description">
               We recruit exceptional talent across a diverse range of industries,
               partnering with organisations that value excellence and innovation.
@@ -160,7 +160,7 @@ function Index() {
         <div className="container">
           <div className="section-heading">
             <span className="section-subtitle">OUR RECRUITMENT PROCESS</span>
-            <h2>A Seamless Journey To<br /><span>Exceptional Talent.</span></h2>
+            <h2>A Seamless Journey To<br /><span>Exceptional Talent</span></h2>
           </div>
           <div className="process-timeline">
             {processSteps.map((p) => (
@@ -179,7 +179,7 @@ function Index() {
           <div className="cta-wrapper">
             <div className="cta-content">
               <span className="section-subtitle">BUILD YOUR TEAM WITH CONFIDENCE</span>
-              <h2>Finding Exceptional People<br />Starts Here.</h2>
+              <h2>Finding Exceptional People<br />Starts Here</h2>
               <p>
                 Whether you're recruiting one specialist or building an entire
                 workforce, The Quartz Agency delivers recruitment solutions tailored
