@@ -28,7 +28,7 @@ const values = [
   { letter: "A", title: "Accountability", text: "Taking ownership and delivering on every commitment we make." },
   { letter: "R", title: "Respect", text: "Building meaningful relationships through professionalism." },
   { letter: "T", title: "Trust", text: "Creating lasting partnerships built on honesty and integrity." },
-  { letter: "Z", title: "Zeal", text: "Bringing passion, energy and commitment to every recruitment journey." },
+  { letter: "Z", title: "Zero Compromise", text: "Never compromising on integrity,professionalism or the quality of service." },
 ];
 
 const industries = [
